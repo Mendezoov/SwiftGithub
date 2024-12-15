@@ -9,7 +9,7 @@ import SwiftUI
 
 struct HomeView: View {
     var body: some View {
-        ZStack {
+        VStack {
             Text("Hello, World!")
             Text("SwiftGithub")
             Text("testing")
