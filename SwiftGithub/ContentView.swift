@@ -17,7 +17,7 @@ struct ContentView: View {
             Text("Mendez Development")
             Text("SwiftGithub")
             Text("test")
-            Button("Click me now ")
+            Button("new button in second branch ")
             {
                 
             }
