@@ -15,6 +15,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Mendez Development")
+            Text("SwiftGithub")
             Button("Click me now ")
             {
                 
