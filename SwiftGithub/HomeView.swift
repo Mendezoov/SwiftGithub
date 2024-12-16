@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct HomeView: View {
-    @State private var title: String = ""
+    @State private var title: String = "my nane"
     var body: some View {
         VStack {
             Text("Hi, World! stage all changes ")
