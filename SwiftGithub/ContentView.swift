@@ -16,7 +16,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Mendez Development")
             Text("SwiftGithub")
-            Text("test")
+            Text("swift with second branch changes")
             Button("new button in second branch ")
             {
                 
