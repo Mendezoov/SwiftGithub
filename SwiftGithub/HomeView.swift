@@ -15,9 +15,7 @@ struct HomeView: View {
             Text("SwiftGithub")
          
         }
-        .onAppear {
-            //send analytics
-        }
+       
     }
 }
 
