@@ -11,7 +11,7 @@ struct HomeView: View {
     @State private var title: String = "Hello world !"
     var body: some View {
         VStack {
-            Text("Hi, World! stage all changes ")
+            Text("hello again ")
             Text("SwiftGithub")
          
         }
