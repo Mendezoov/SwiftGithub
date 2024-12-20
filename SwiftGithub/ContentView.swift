@@ -17,9 +17,7 @@ struct ContentView: View {
                             .font(.largeTitle)
                             .imageScale(.large)
                             .foregroundStyle(.tint)
-                        Text("Mendez Development")
-                        Text("SwiftGithub")
-                        Text("swift with second branch changes")
+                     Text("Swift mendez !")
                         Button("nclick me ! ")
                         {
                             
