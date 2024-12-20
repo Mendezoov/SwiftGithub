@@ -17,7 +17,7 @@ struct ContentView: View {
                             .font(.largeTitle)
                             .imageScale(.large)
                             .foregroundStyle(.tint)
-                     Text("rebasing")
+                     Text("cheryy picking")
                         Button("Subscribe now! ")
                         {
                             
