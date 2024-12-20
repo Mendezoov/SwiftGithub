@@ -13,7 +13,7 @@ struct HomeView: View {
         VStack {
             Text("Hi, World! stage all changes ")
             Text("SwiftGithub")
-            Text("fixed")
+         
         }
         .onAppear {
             //send analytics
