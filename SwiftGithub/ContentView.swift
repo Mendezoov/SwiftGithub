@@ -13,10 +13,20 @@ struct ContentView: View {
             ScrollView {
               VStack {
                   ForEach(0..<20) { _ in
-                        Text("testing !conflict" )
+                           Image(systemName: "house.fill")
+                .font(.largeTitle)
+                .imageScale(.large)
+                .foregroundStyle(.tint)
+            Text("Mendez Development")
+            Text("SwiftGithub")
+            Text("swift with second branch changes")
+            Button("nclick me ! ")
+            {
+                
+            }
                     }
                 }
-            }
+         
          
         }
         .padding()
