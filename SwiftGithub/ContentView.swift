@@ -17,7 +17,7 @@ struct ContentView: View {
                             .font(.largeTitle)
                             .imageScale(.large)
                             .foregroundStyle(.tint)
-                     Text("Swift mendez !")
+                     Text("rebasing")
                         Button("nclick me ! ")
                         {
                             
